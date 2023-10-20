@@ -1,0 +1,12 @@
+server:
+  port: 3000
+  host: localhost
+database:
+  name: mydb
+  user: myuser
+  password: mypassword
+
+yd_api:
+  url: http://openapi.youdao.com/api
+  appKey: mCyYPhxqV7vCtvfeGmFfPkgiI7eiwDI3
+  key: 22886327856afdbd
